@@ -10,4 +10,4 @@
 - Handling big query using by MySQL, MariaDB, etc.
 - Deep Learning(Natural Language Processing) 
 - Amazon Web Services(especially docker)
-- Leadership, Steadiness, Go-getta
+- Leadership, Steadiness, Go-getta ✨
