@@ -1,6 +1,14 @@
-#### JuheePak
+### 💾 Data Analyst
+
+- Data analyst in Intellectual Property industry
 
 ---
 
-#### 주희의 리드미 입니당
+### Interest
+
+- Data preprocessing using Python
+- Handling big query like MySQL, MariaDB, etc.
+- Deep Learning(Natural Language Processing) 
+- Amazon Web Services(especially docker)
+- Leadership, Learning
 
