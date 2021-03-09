@@ -4,9 +4,9 @@
 
 ---
 
-### 🐱‍🏍Interest 
+### 🐱‍🏍Interests
 
-- Data preprocessing using by Python
+- Data preprocessing & analysing using by Python
 - Handling big query using by MySQL, MariaDB, etc.
 - Deep Learning(Natural Language Processing) 
 - Amazon Web Services(especially docker, S3)
