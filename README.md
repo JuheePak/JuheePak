@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juhee.pak.06@gmail.com)](mailto:juhee.pak.06@gmail.com)
 
 - Data analyst in an Intellectual Property industry
+- [check out my notion!](https://www.notion.so/PAK-JUHEE-327d2bb10e1c48da97a04ddc5e7fbb1e)
 
 ---
 
