@@ -13,6 +13,7 @@
 - Handling big query using by MySQL, MariaDB
 - Deep Learning(Natural Language Processing) 
 - Amazon Web Services(especially S3)
+- Using Docker engine on Ubuntu (can't be easy)😂
 - Leadership, Steadiness, Go-getta ✨
 
 ---
