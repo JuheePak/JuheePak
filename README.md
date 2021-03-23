@@ -11,7 +11,7 @@
 
 - Data preprocessing & analysing using by Python
 - Handling big query using by MySQL, MariaDB
-- Deep Learning(Natural Language Processing) 
+- Deep Learning(NLP, CNN) 
 - Amazon Web Services(especially S3)
 - Using Docker engine on Ubuntu (will get the hang of it😂)
 - Leadership, Steadiness, Go-getta ✨
