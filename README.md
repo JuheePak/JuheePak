@@ -9,7 +9,7 @@
 
 ### 🐱‍🏍Interests
 
-- Data preprocessing & analysing using by Python
+- Data preprocessing & analysing using by Python, R
 - Handling big query using by MySQL, MariaDB
 - Deep Learning(NLP, CNN)
 - Studying Linear algebra
