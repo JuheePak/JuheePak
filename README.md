@@ -9,16 +9,10 @@
 
 ### 🐱‍🏍Interests
 
-<<<<<<< HEAD
-- Data preprocessing & analysing using by Python
-- Handling big queries using by MySQL, MariaDB
-- Deep Learning(Natural Language Processing) 
-=======
 - Data preprocessing & analysing using by Python, R
 - Handling big query using by MySQL, MariaDB
 - Deep Learning(NLP, CNN)
 - Studying Linear algebra
->>>>>>> 5fd4fc06e69138a74cae05d658bc2ef593e22f31
 - Amazon Web Services(especially S3)
 - Using Docker engine on Ubuntu
 - Leadership, Steadiness, Go-getta ✨
