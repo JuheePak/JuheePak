@@ -7,7 +7,7 @@
 ### 🐱‍🏍Interests
 
 - Data preprocessing & analysing using by Python
-- Handling big query using by MySQL, MariaDB
+- Handling big queries using by MySQL, MariaDB
 - Deep Learning(Natural Language Processing) 
 - Amazon Web Services(especially S3)
 - Leadership, Steadiness, Go-getta ✨
