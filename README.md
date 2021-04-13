@@ -12,7 +12,7 @@
 - Data preprocessing & analysing using by Python, R
 - Handling big query using by MySQL, MariaDB
 - Deep Learning(NLP, CNN)
-- Studying Linear algebra
+- Studying Statistics
 - Amazon Web Services(especially S3)
 - Using Docker engine on Ubuntu
 - Leadership, Steadiness, Go-getta ✨
